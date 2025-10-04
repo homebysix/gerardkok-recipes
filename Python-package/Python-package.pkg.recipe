@@ -100,8 +100,6 @@ fi
                         <string>com.github.autopkg.gerardkok-recipes.%NAME%</string>
                         <key>version</key>
                         <string>%version%</string>
-                        <key>options</key>
-                        <string>purge_ds_store</string>
                     </dict>
                 </dict>
             </dict>
