@@ -23,7 +23,7 @@
                     <key>url</key>
                     <string>https://www.postbox-inc.com/download/success-mac</string>
                     <key>re_pattern</key>
-                    <string>\"(?P&lt;download_url&gt;https://.*\.dmg)\"</string>
+                    <string>href=\"(?P&lt;download_url&gt;https://.*\.dmg)\"</string>
                 </dict>
             </dict>
             <dict>
